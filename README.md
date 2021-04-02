@@ -1,6 +1,6 @@
 # world_time
 
-A new Flutter application.
+A Flutter application to display time at various places. This project uses World Time API( http://worldtimeapi.org/ ) to retrieve time at the specified location as a JSON object and asynchronous funtions to displays the time.
 
 ## Getting Started
 
